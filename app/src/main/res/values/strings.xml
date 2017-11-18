@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Inventário</string>
+
+    <string name="name">Nome: %s</string>
+    <string name="quantity">Quantidade: %d</string>
+    <string name="price">Preço: "%1$,.2f" Kz</string>
+    <string name="availability">Disponibilidade: %s</string>
+    <string name="supplier">Fornecedor: %s</string>
+
+    <string name="available">Disponível</string>
+    <string name="unavailable">Indisponível</string>
+
+    <string name="name_hint">Nome do Produto</string>
+    <string name="price_hint">Preço do Produto</string>
+    <string name="quantity_hint">Quantidade do Produto</string>
+    <string name="supplier_hint">Fornecedor do Produto</string>
+
+    <string name="add">Adicionar</string>
+    <string name="sale">Vender</string>
+    <string name="shipment">Comprar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="order">Pedido</string>
+    <string name="delete">Apagar</string>
+
+    <string name="picture">Tirar Foto</string>
+
+    <string name="delete_dialog">
+        Apagar o produto?
+    </string>
+
+    <string name="noData">
+        Você não possui produtos agora, por favor pressione o botão ADICIONAR para inserir um produto.
+    </string>
+
+    <string name="validator_fail">
+        Todos os campos são necessários para inserir um novo produto, tente novamente!
+    </string>
+
+    <string name="validator_success">
+        Produto adicionado com sucesso!
+    </string>
+
+    <string name="error">
+        Erro ao voltar da tela de detalhes!
+    </string>
+</resources>
